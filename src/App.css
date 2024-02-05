@@ -37,5 +37,7 @@
 .container__btn:hover {
   opacity: 1;
   transform: scale(1.05);
-  box-shadow: 0 0 0.8em #00000080;
+  box-shadow: 0 0 1em #700074;
+  filter: drop-shadow(0 0 1em #ff00ea);
+  
 }
