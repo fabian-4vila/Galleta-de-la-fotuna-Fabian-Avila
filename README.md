@@ -8,7 +8,10 @@ Una pequeña aplicación hecha con React que muestra frases aleatorias acompaña
 - Imágenes de fondo aleatorias cada vez que se genera una nueva frase.
 - Diseño simple y amigable.
 - Proyecto ideal para practicar React con componentes, estado y eventos.
-
+## 🔗 Link del proyecto en Netlify
+```bash
+galleta-de-la-fortuna-by-fabian-avila.netlify.app
+```
 ## 🧰 Tecnologías utilizadas
 
 - ⚛️ React
