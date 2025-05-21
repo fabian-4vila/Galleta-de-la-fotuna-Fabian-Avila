@@ -36,11 +36,10 @@ Correr proyecto
 npm start
 ```
 Esto abrirá la app en http://localhost:3000
-```bash
+
 📁 Estructura del proyecto
-csharp
-Copiar
-Editar
+
+```bash
 Galleta-de-la-fortuna-Fabian-Avila/
 ├── public/
 ├── src/
