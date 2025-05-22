@@ -9,9 +9,8 @@ Una pequeña aplicación hecha con React que muestra frases aleatorias acompaña
 - Diseño simple y amigable.
 - Proyecto ideal para practicar React con componentes, estado y eventos.
 ## 🔗 Link del proyecto en Netlify
-```bash
-galleta-de-la-fortuna-by-fabian-avila.netlify.app
-```
+
+[galleta-de-la-fortuna-by-fabian-avila.netlify.app](galleta-de-la-fortuna-by-fabian-avila.netlify.app)
 ## 🧰 Tecnologías utilizadas
 
 - ⚛️ React
@@ -20,25 +19,26 @@ galleta-de-la-fortuna-by-fabian-avila.netlify.app
 
 ## 📦 Instalación
 
-1. Clona el repositorio:
-
+### Clona el repositorio:
 ```bash
 git clone https://github.com/fabian-4vila/Galleta-de-la-suerte.git
 cd Galleta-de-la-suerte
 ```
-Instala las dependencias:
-
+### Instala las dependencias:
 ```bash
 npm install
 ```
-Correr proyecto
+### Correr servidor dev:
+```bash
+npm run dev 
+```
+### Correr proyecto:
 ```bash
 npm start
 ```
 Esto abrirá la app en http://localhost:3000
 
-📁 Estructura del proyecto
-
+## 📁 Estructura del proyecto
 ```bash
 Galleta-de-la-suerte/
 ├── public/
