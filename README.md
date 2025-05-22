@@ -23,8 +23,8 @@ galleta-de-la-fortuna-by-fabian-avila.netlify.app
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/tu-usuario/Galleta-de-la-fortuna-Fabian-Avila.git
-cd Galleta-de-la-fortuna-Fabian-Avila
+git clone https://github.com/fabian-4vila/Galleta-de-la-suerte.git
+cd Galleta-de-la-suerte
 ```
 Instala las dependencias:
 
@@ -40,7 +40,7 @@ Esto abrirá la app en http://localhost:3000
 📁 Estructura del proyecto
 
 ```bash
-Galleta-de-la-fortuna-Fabian-Avila/
+Galleta-de-la-suerte/
 ├── public/
 ├── src/
 │   ├── components/
