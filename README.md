@@ -43,10 +43,15 @@ Esto abrirá la app en http://localhost:3000
 Galleta-de-la-fortuna-Fabian-Avila/
 ├── public/
 ├── src/
-│   ├── assets/          # Imágenes de fondo
-│   ├── components/      # Componentes React
-│   ├── data/            # Archivo con frases
+│   ├── components/
+│       ├── BtnQuote.jsx
+│       └── Quote.jsx  
+│   ├── utils/
+│        ├── getRandomElemArray.js
+│        └── phrases.json
+│   ├── App.css
 │   ├── App.jsx
+│   ├── index.css
 │   └── main.jsx
 ├── package.json
 └── README.md
